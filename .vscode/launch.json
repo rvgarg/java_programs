@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - compint",
+            "request": "launch",
+            "mainClass": "compint"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testclass",
+            "request": "launch",
+            "mainClass": "testclass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - inttest",
+            "request": "launch",
+            "mainClass": "inttest"
+        }
+    ]
+}
